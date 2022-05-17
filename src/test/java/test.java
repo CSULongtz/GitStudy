@@ -8,5 +8,6 @@ public class test {
         System.out.println("22222222222");
         System.out.println("33333333333");
         System.out.println("44444444444");
+        System.out.println("push test");
     }
 }
